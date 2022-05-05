@@ -8,7 +8,10 @@ function Footer({}: Props) {
       <footer className="mx-auto mt-24 max-w-7xl px-4 sm:mt-32 sm:px-6 lg:px-8">
         <div className="border-t py-12 md:flex md:items-center md:justify-between">
           <div className="flex justify-center space-x-6 md:order-2">
-            <a href="#" className="text-gray-400 hover:text-gray-500">
+            <a
+              href="https://www.facebook.com/pparamax/"
+              className="text-gray-400 hover:text-gray-500"
+            >
               <span className="sr-only">Facebook</span>
               <svg
                 fill="currentColor"
@@ -23,7 +26,10 @@ function Footer({}: Props) {
                 ></path>
               </svg>
             </a>
-            <a href="#" className="text-gray-400 hover:text-gray-500">
+            <a
+              href="https://www.instagram.com/m4xexp___/"
+              className="text-gray-400 hover:text-gray-500"
+            >
               <span className="sr-only">Instagram</span>
               <svg
                 fill="currentColor"
@@ -39,7 +45,10 @@ function Footer({}: Props) {
               </svg>
             </a>
 
-            <a href="#" className="text-gray-400 hover:text-gray-500">
+            <a
+              href="https://github.com/m4xexp/longboard"
+              className="text-gray-400 hover:text-gray-500"
+            >
               <span className="sr-only">GitHub</span>
               <svg
                 fill="currentColor"
