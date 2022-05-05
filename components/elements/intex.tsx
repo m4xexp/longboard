@@ -1,3 +1,3 @@
-import Footer from "components/elements/footer";
+import Footer from "components/elements/Footer";
 
 export { Footer };
